@@ -1,3 +1,5 @@
 {
-  "item.tutorialmod.titanium": "Titanium"
+  "item.tutorialmod.titanium": "Titanium",
+
+  "itemGroup.tutorialtab": "Titanium Tab"
 }
