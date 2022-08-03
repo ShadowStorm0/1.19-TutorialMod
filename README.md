@@ -22,6 +22,6 @@
 
 
 
-© Copyright 2022, ShadowStorm0!
+© Copyright 2022, ShadowStorm0
 
 [gpl3License](https://user-images.githubusercontent.com/41564329/182515921-3d7d16a1-289c-4165-8045-02f2e2747cb1.png)
