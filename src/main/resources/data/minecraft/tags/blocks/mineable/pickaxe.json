@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:titanium_ore",
+    "tutorialmod:titanium_block",
+    "tutorialmod:deepslate_titanium_ore",
+    "tutorialmod:netherrack_titanium_ore",
+    "tutorialmod:endstone_titanium_ore"
+  ]
+}

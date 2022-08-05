@@ -25,7 +25,8 @@ public class ModBlocks {
     //Blocks
     public static final RegistryObject<Block> TITANIUM_BLOCK = registryBlock("titanium_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(6f).requiresCorrectToolForDrops().explosionResistance(6)), ModCreativeModeTab.TUTORIAL_TAB);
+                    .strength(20f).requiresCorrectToolForDrops().explosionResistance(6))
+                    , ModCreativeModeTab.TUTORIAL_TAB);
 
     public static final RegistryObject<Block> TITANIUM_ORE = registryBlock("titanium_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
